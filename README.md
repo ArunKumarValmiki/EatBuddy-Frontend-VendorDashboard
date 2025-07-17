@@ -1,12 +1,13 @@
-# React + Vite
+### 🚀 Live Frontend (Vendor Dashboard)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The frontend is deployed and accessible at :
 
-Currently, two official plugins are available:
+🔗 [https://eat-buddy-frontend-vendor-dashboard.vercel.app](https://eat-buddy-frontend-vendor-dashboard.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### 🛠️ Live Backend API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The backend is deployed and accessible at *(hosted on Render – may take 1 to 2 minutes during the initial load)*:
+
+🔗 [https://eatbuddy-backend-vendordashboard.onrender.com](https://eatbuddy-backend-vendordashboard.onrender.com)
