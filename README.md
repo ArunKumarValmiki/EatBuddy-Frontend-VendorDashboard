@@ -31,8 +31,7 @@ The backend is deployed and accessible at *(hosted on Render – may take 1 to 2
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Backend Dependency](#backend-dependency)
-- [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
+- [Author](#author)
 
 ---
 
@@ -74,7 +73,7 @@ Follow these steps to set up and run the EatBuddy Frontend Vendor Dashboard loca
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ArunKumarValmiki/EatBuddy-Frontend-VendorDashboard.git](https://github.com/ArunKumarValmiki/EatBuddy-Frontend-VendorDashboard.git)
+    git clone https://github.com/ArunKumarValmiki/EatBuddy-Frontend-VendorDashboard.git
     cd EatBuddy-Frontend-VendorDashboard
     ```
 2.  **Install dependencies:**
@@ -97,3 +96,12 @@ To start the development server:
 npm start
 # or
 yarn start
+```
+
+### Backend Dependency
+**This frontend application relies entirely on the EatBuddy-Backend for all data storage and retrieval. Please ensure the backend server is running and accessible at the URL configured in your .env file. Refer to the backend's README for its setup instructions and API documentation.**
+
+---
+
+## Author
+### Arun Kumar Valmiki
